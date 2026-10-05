@@ -1,0 +1,17 @@
+{
+  "name": "artisanal-ai",
+  "description": "Claude Code plugins from Artisanal AI.",
+  "owner": {
+    "name": "Artisanal AI"
+  },
+  "plugins": [
+    {
+      "name": "flex",
+      "source": {
+        "source": "github",
+        "repo": "artisanal-ai/flex"
+      },
+      "description": "Gym breaks for people who live in Claude Code: a stretch every few minutes, and pinky day every few prompts."
+    }
+  ]
+}
